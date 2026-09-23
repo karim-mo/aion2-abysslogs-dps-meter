@@ -17,6 +17,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 
 - **Live DPS bars** with class, combat power or gear score, and share of damage
 - **Boss HP and party DPS** on the boss card
+- **Berserk timer**: kill time against the boss's berserk, and its HP when berserk hits
 - **eDPS or aDPS**: the whole fight, or active time only
 - **Player breakdown**: targets, skills, crit, back, front, parry, perfect, double and multi-hit rates
 - **Skill Spy**: the specialities behind every skill
@@ -28,7 +29,9 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Fight history** on your PC, dungeon runs grouped, searchable by player and dungeon
 - **Party only** and **boss only** capture
 - **Hotkeys** to hide the overlay and reset the fight
+- **Fight summary** copied as text for party chat, by button or hotkey
 - **Focus mode, opacity and UI scale** up to 200%
+- **Hide player names** for streaming: everyone else shows as their class
 - **Footer** with your character, Odyle Energy and ping
 - **Nine languages, six regions**, and it works through VPNs and ping reducers
 - **One-click updates** with the changelog built in
@@ -46,7 +49,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 
 <table>
   <tr>
-    <td width="50%" valign="top"><img src="assets/meter-overlay.png" alt="The meter's live DPS bars during a boss fight"><br><sub>In the meter: live DPS bars</sub></td>
+    <td width="50%" valign="top"><img src="assets/meter-overlay.png" alt="The meter's live DPS bars during a boss fight"><br><sub>In the meter: live DPS bars and the berserk timer</sub></td>
     <td width="50%" valign="top"><img src="assets/meter-timeline.png" alt="The meter's skill timeline"><br><sub>In the meter: the skill timeline against the boss's HP</sub></td>
   </tr>
   <tr>

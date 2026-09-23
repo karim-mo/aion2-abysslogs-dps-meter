@@ -39,6 +39,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - The full breakdown in the browser: party, skills, opener, skill and buff timelines.
 - Leaderboards per region and boss, for verified characters only.
 - Class statistics per boss by combat power bracket, and where your verified characters stand.
+- The home page shows your region's newest fights, the top DPS on the hardest bosses being played and this week's DPS by class.
 - Public, unlisted or private: you decide who sees each fight.
 
 ## Screenshots

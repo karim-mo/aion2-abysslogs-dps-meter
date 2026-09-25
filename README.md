@@ -23,6 +23,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Skill Spy**: the specialities behind every skill
 - **Heals** tracked on their own
 - **Skill and buff timelines** against the boss's HP, with a player's opener sequence
+- **Buffs per skill**: which buffs were up on each skill's casts, and what else was up with them
 - **Boss reset detection**: a wipe ends the fight, long mechanics do not idle
 - **Training dummy parse capping** at 1, 2, 3 or 5 minutes
 - **Dungeon lobby** with everyone's gear score, combat power and ready state

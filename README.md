@@ -32,6 +32,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Hotkeys** to hide the overlay and reset the fight
 - **Fight summary** copied as text for party chat, by button or hotkey
 - **Focus mode, opacity and UI scale** up to 200%
+- **Compact strip**: the overlay folds to one line with your DPS, party DPS, and the boss's HP and berserk, by button or hotkey
 - **Hide player names** for streaming: everyone else shows as their class
 - **Footer** with your character, Odyle Energy and ping
 - **Nine languages, six regions**, and it works through VPNs and ping reducers
@@ -40,7 +41,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 **On [abysslogs.com](https://abysslogs.com)**
 
 - One click in the meter uploads a fight or a whole dungeon run and copies its link.
-- The full breakdown in the browser: party, skills, opener, skill and buff timelines.
+- The full breakdown in the browser: party, skills, opener, skill and buff timelines, and buffs per skill.
 - Leaderboards per region and boss, for verified characters only.
 - Class statistics per boss by combat power bracket, and where your verified characters stand.
 - The home page shows your region's newest fights, the top DPS on the hardest bosses being played and this week's DPS by class.

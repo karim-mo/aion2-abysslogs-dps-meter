@@ -27,12 +27,16 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Boss reset detection**: a wipe ends the fight, long mechanics do not idle
 - **Training dummy parse capping** at 1, 2, 3 or 5 minutes
 - **Dungeon lobby** with everyone's gear score, combat power and ready state
+- **Buff tracking**: your cooldowns, buffs and debuffs on bars over the game, with presets per class
+- **Event alerts**: a popup and a sound before the Shugo Festival, Spacetime Rift and Invasion open, and when they do
 - **Fight history** on your PC, dungeon runs grouped, searchable by player and dungeon
 - **Party only** and **boss only** capture
 - **Hotkeys** to hide the overlay and reset the fight
 - **Fight summary** copied as text for party chat, by button or hotkey
 - **Focus mode, opacity and UI scale** up to 200%
 - **Compact strip**: the overlay folds to one line with your DPS, party DPS, and the boss's HP and berserk, by button or hotkey
+- **Click-through**: lock the overlay so your clicks reach behind the app, by button or hotkey
+- **Only above the game**: the overlay stays over the game but behind any window you bring in front of it
 - **Hide player names** for streaming: everyone else shows as their class
 - **Footer** with your character, Odyle Energy and ping
 - **Nine languages, six regions**, and it works through VPNs and ping reducers
@@ -42,7 +46,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 
 - One click in the meter uploads a fight or a whole dungeon run and copies its link.
 - The full breakdown in the browser: party, skills, opener, skill and buff timelines, and buffs per skill.
-- Leaderboards per region and boss, for verified characters only.
+- Leaderboards per region and boss for everyone in a shared fight, with each player's gear score and combat power, and you can hide your verified characters.
 - Class statistics per boss by combat power bracket, and where your verified characters stand.
 - The home page shows your region's newest fights, the top DPS on the hardest bosses being played and this week's DPS by class.
 - Public, unlisted or private: you decide who sees each fight.
@@ -69,8 +73,8 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 ## Get started
 
 1. Install [Npcap](https://npcap.com/#download) and tick **Install Npcap in WinPcap API-compatible Mode**.
-2. Download the meter from [abysslogs.com](https://abysslogs.com). It is a single `.exe` in a zip.
-3. Run it. Windows asks for administrator rights, which packet capture needs.
+2. Download the meter from [abysslogs.com](https://abysslogs.com) and run the installer. If your antivirus blocks it, the same page has the meter as a portable zip and as a plain `.exe`.
+3. Run it. Windows asks for administrator rights, which packet capture needs. If your PC is missing Microsoft's WebView2, the meter opens its download page: install it and run the meter again.
 4. Pick your region in **Settings → General**, then play.
 5. To share fights, open **Settings → Account → Connect account** and approve the code in your browser. Dungeon runs then upload by themselves if you allow automatic uploads, and **Share** on any fight copies its link.
 

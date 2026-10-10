@@ -27,6 +27,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Boss reset detection**: a wipe ends the fight, long mechanics do not idle
 - **Training dummy parse capping** at 1, 2, 3 or 5 minutes
 - **Dungeon lobby** with everyone's gear score, combat power and ready state
+- **Rank badges and nameplates**: each class's top players at their CP and its top 5 overall marked in your lobby and on the bars
 - **Buff tracking**: your cooldowns, buffs and debuffs on bars over the game, with presets per class
 - **Event alerts**: a popup and a sound before the Shugo Festival, Spacetime Rift and Invasion open, and when they do
 - **Fight history** on your PC, dungeon runs grouped, searchable by player and dungeon
@@ -78,7 +79,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 4. Pick your region in **Settings → General**, then play.
 5. To share fights, open **Settings → Account → Connect account** and approve the code in your browser. Dungeon runs then upload by themselves if you allow automatic uploads, and **Share** on any fight copies its link.
 
-Updates install from inside the meter with one click.
+Updates download by themselves and apply the next time the meter starts.
 
 ## FAQ
 

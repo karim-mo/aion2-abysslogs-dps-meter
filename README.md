@@ -25,9 +25,10 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Skill and buff timelines** against the boss's HP, with a player's opener sequence
 - **Buffs per skill**: which buffs were up on each skill's casts, and what else was up with them
 - **Boss reset detection**: a wipe ends the fight, long mechanics do not idle
-- **Training dummy parse capping** at 1, 2, 3 or 5 minutes
+- **Training dummy parse capping** at 1, 2, 3 or 5 minutes, or any length from 10 seconds to 5 minutes
 - **Dungeon lobby** with everyone's gear score, combat power and ready state
 - **Rank badges and nameplates**: each class's top players at their CP and its top 5 overall marked in your lobby and on the bars
+- **Supporter nameplates**: supporters pick a nameplate for each verified character, and every meter shows it
 - **Buff tracking**: your cooldowns, buffs and debuffs on bars over the game, with presets per class
 - **Event alerts**: a popup and a sound before the Shugo Festival, Spacetime Rift and Invasion open, and when they do
 - **Fight history** on your PC, dungeon runs grouped, searchable by player and dungeon
@@ -38,6 +39,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Compact strip**: the overlay folds to one line with your DPS, party DPS, and the boss's HP and berserk, by button or hotkey
 - **Click-through**: lock the overlay so your clicks reach behind the app, by button or hotkey
 - **Only above the game**: the overlay stays over the game but behind any window you bring in front of it
+- **Fade when idle**: the overlay fades after a minute without a fight, and comes back when one starts or you point at it
 - **Hide player names** for streaming: everyone else shows as their class
 - **Footer** with your character, Odyle Energy and ping
 - **Nine languages, six regions**, and it works through VPNs and ping reducers
@@ -84,7 +86,7 @@ Updates download by themselves and apply the next time the meter starts.
 ## FAQ
 
 **Is it free?**
-Yes. Supporters on [Ko-fi](https://abysslogs.com/support) fund the servers and get 50 GB of storage for their fights instead of 2 GB.
+Yes. Supporters on [Ko-fi](https://abysslogs.com/support) fund the servers and get 50 GB of storage for their fights instead of 2 GB, and a nameplate of their choice for each verified character.
 
 **Can I get banned for using it?**
 No. The meter passively reads game packets off the network interface. It does not modify, intercept or interact with the game client or server in any way.

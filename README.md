@@ -20,8 +20,11 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Berserk timer**: kill time against the boss's berserk, and its HP when berserk hits
 - **eDPS or aDPS**: the whole fight, or active time only
 - **Player breakdown**: targets, skills, crit, back, front, parry, perfect, double and multi-hit rates
+- **Active %**: how much of the fight each player spent attacking
 - **Skill Spy**: the specialities behind every skill
 - **Heals** tracked on their own
+- **Damage taken and deaths**: a record of all damage taken and a death recap.
+- **Fight highlights**: some aggregated statistics at the end of a fight
 - **Skill and buff timelines** against the boss's HP, with a player's opener sequence
 - **Buffs per skill**: which buffs were up on each skill's casts, and what else was up with them
 - **Boss reset detection**: a wipe ends the fight, long mechanics do not idle
@@ -31,6 +34,8 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Supporter nameplates**: supporters pick a nameplate for each verified character, and every meter shows it
 - **Buff tracking**: your cooldowns, buffs and debuffs on bars over the game, with presets per class
 - **Event alerts**: a popup and a sound before the Shugo Festival, Spacetime Rift and Invasion open, and when they do
+- **World boss alerts**: same as event alerts
+- **Field boss timers**: same as event alerts
 - **Fight history** on your PC, dungeon runs grouped, searchable by player and dungeon
 - **Party only** and **boss only** capture
 - **Hotkeys** to hide the overlay and reset the fight
@@ -49,7 +54,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 
 - One click in the meter uploads a fight or a whole dungeon run and copies its link.
 - The full breakdown in the browser: party, skills, opener, skill and buff timelines, and buffs per skill.
-- Leaderboards per region and boss for everyone in a shared fight, with each player's gear score and combat power, and you can hide your verified characters.
+- Leaderboards per region, boss and combat power bracket for everyone in a shared fight, with each player's gear score and combat power, and you can hide your verified characters.
 - Class statistics per boss by combat power bracket, and where your verified characters stand.
 - The home page shows your region's newest fights, the top DPS on the hardest bosses being played and this week's DPS by class.
 - Public, unlisted or private: you decide who sees each fight.

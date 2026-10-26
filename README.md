@@ -7,7 +7,9 @@
 Live overlay in game · one-click logs on abysslogs.com · all six regions · free
 
 [![Download at abysslogs.com](https://img.shields.io/badge/Download-abysslogs.com-7dd8d8?style=for-the-badge&labelColor=191d24)](https://abysslogs.com)
-[![Discord](https://img.shields.io/badge/Discord-Aion2Global-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=191d24)](https://discord.gg/Aion2Global)
+[![Discord](https://img.shields.io/badge/Discord-Abyss%20Logs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=191d24)](https://abysslogs.com/discord)
+
+[![Aion 2 Global community](https://img.shields.io/badge/Aion%202%20Global-community-5865F2?style=flat&logo=discord&logoColor=white&labelColor=191d24)](https://discord.gg/Aion2Global)
 
 </div>
 
@@ -22,7 +24,7 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Player breakdown**: targets, skills, crit, back, front, parry, perfect, double and multi-hit rates
 - **Active %**: how much of the fight each player spent attacking
 - **Skill Spy**: the specialities behind every skill
-- **Heals** tracked on their own
+- **Heals** tracked on their own, with each healer's HPS over the whole fight
 - **Damage taken and deaths**: a record of all damage taken and a death recap.
 - **Fight highlights**: some aggregated statistics at the end of a fight
 - **Skill and buff timelines** against the boss's HP, with a player's opener sequence
@@ -33,9 +35,11 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Rank badges and nameplates**: each class's top players at their CP and its top 5 overall marked in your lobby and on the bars
 - **Supporter nameplates**: supporters pick a nameplate for each verified character, and every meter shows it
 - **Buff tracking**: your cooldowns, buffs and debuffs on bars over the game, with presets per class
+- **Tracker sounds**: a sound per skill when its cooldown is ready, or when its buff or debuff goes up or ends
 - **Event alerts**: a popup and a sound before the Shugo Festival, Spacetime Rift and Invasion open, and when they do
 - **World boss alerts**: same as event alerts
 - **Field boss timers**: same as event alerts
+- **Event timers**: countdowns to the next events, world bosses and field bosses on bars over the game
 - **Fight history** on your PC, dungeon runs grouped, searchable by player and dungeon
 - **Party only** and **boss only** capture
 - **Hotkeys** to hide the overlay and reset the fight
@@ -45,15 +49,17 @@ Live overlay in game · one-click logs on abysslogs.com · all six regions · fr
 - **Click-through**: lock the overlay so your clicks reach behind the app, by button or hotkey
 - **Only above the game**: the overlay stays over the game but behind any window you bring in front of it
 - **Fade when idle**: the overlay fades after a minute without a fight, and comes back when one starts or you point at it
+- **Hide when idle**: the meter goes to the tray after a while without a fight, and comes back when one starts or a lobby opens
 - **Hide player names** for streaming: everyone else shows as their class
-- **Footer** with your character, Odyle Energy and ping
+- **Footer** with your character, Odyle Energy, ping and FPS
+- **Tickets**: every character's Odyle, Nightmare, Ascension Trial, Daily Dungeon, Shugo and Invasion keys
 - **Nine languages, six regions**, and it works through VPNs and ping reducers
 - **One-click updates** with the changelog built in
 
 **On [abysslogs.com](https://abysslogs.com)**
 
 - One click in the meter uploads a fight or a whole dungeon run and copies its link.
-- The full breakdown in the browser: party, skills, opener, skill and buff timelines, and buffs per skill.
+- The full breakdown in the browser: party, skills and casts, active time, healing, damage taken, fight highlights, opener, skill and buff timelines, and buffs per skill.
 - Leaderboards per region, boss and combat power bracket for everyone in a shared fight, with each player's gear score and combat power, and you can hide your verified characters.
 - Class statistics per boss by combat power bracket, and where your verified characters stand.
 - The home page shows your region's newest fights, the top DPS on the hardest bosses being played and this week's DPS by class.
@@ -101,6 +107,9 @@ The meter is 100% accurate. It records the game's own combat data, and the site 
 
 **Which systems does it run on?**
 64-bit Windows.
+
+**Where do I report a bug or suggest a feature?**
+In the [Abyss Logs Discord](https://abysslogs.com/discord): open a ticket for a bug, or post your idea in feature suggestions. Also by clicking Report a bug, in the meter's settings or on abysslogs.com
 
 ---
 
